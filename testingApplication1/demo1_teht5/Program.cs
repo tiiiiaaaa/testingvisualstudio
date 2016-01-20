@@ -14,6 +14,7 @@ namespace demo1_teht5
             Console.Write("Give seconds: ");
             string line = Console.ReadLine();
             int seconds = int.Parse(line);
+            //
 
             int hour = seconds / 3600;
             int min = seconds / 60 - hour * 60;
