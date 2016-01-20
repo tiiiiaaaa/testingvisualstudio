@@ -11,6 +11,7 @@ namespace testingApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
+            Console.ReadLine();
         }
     }
 }
